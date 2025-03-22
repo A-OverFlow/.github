@@ -1,12 +1,15 @@
-## Hi there 👋
+# Make it Work, Right, Fast 🛠️
 
-<!--
+1. Works : 일단 동작하게 만들고
+2. Right : 이후에 개선하며
+3. Fast : 나중에 최적화한다
 
-**Here are some ideas to get you started:**
+# YAGNI (You Aren’t Gonna Need It) 🚫
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+발음 : 야그니, 얘그니
+
+- 지금 필요없는 건 만들지 마라
+- 실제로 필요해지면 만들자
+- 하지만, 확장성은 고려해서
+
+지금은 단순하게, 나중에 바꾸기 쉽게.
