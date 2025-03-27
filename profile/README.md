@@ -2,6 +2,8 @@
 
 무물보 : http://mumulbo.com
 
+# 호랑이에게 물려가도 죽지만 않으면 산다 🐯
+
 # Make it Work, Right, Fast 🛠️
 
 1. Works : 일단 동작하게 만들고
