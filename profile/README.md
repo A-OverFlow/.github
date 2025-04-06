@@ -2,7 +2,7 @@
 
 ## 무물보 : http://mumulbo.com
 
-![스터디_이미지.png](%EC%8A%A4%ED%84%B0%EB%94%94_%EC%9D%B4%EB%AF%B8%EC%A7%80.png)
+<img alt="스터디_이미지.png" height="256" src="%EC%8A%A4%ED%84%B0%EB%94%94_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" width="384"/>
 
 # 호랑이에게 물려가도 죽지만 않으면 산다
 
